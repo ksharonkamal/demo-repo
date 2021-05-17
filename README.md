@@ -1,3 +1,3 @@
 # Demo
 
-first line as descrption.
+first line as description.
